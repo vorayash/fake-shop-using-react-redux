@@ -2,6 +2,8 @@
 
 This is a sample e-commerce web application built using React and Redux. 
 
+Deployment : https://vorayash.github.io/fake-shop-using-react-redux/
+
 
 ## Getting started
 
